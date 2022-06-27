@@ -1,1 +1,1 @@
-test2 testmergeconflictbranch1
+test2 testmergeconflictbranch2
