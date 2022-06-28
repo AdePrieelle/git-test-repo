@@ -1,1 +1,1 @@
-test2 testmergeconflictbranch1 after merge conflict resolved
+test2 testmergeconflictbranch2 after merge conflict resolved v2
