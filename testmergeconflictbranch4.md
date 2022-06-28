@@ -1,1 +1,1 @@
-new text testmergeconflictbranch4
+edited new text testmergeconflictbranch4 from branch testmergeconflictbranch5
