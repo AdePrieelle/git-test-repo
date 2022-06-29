@@ -1,1 +1,1 @@
-add testmergeconflict2 in main
+Edit testmergeconflict2 in branch4
